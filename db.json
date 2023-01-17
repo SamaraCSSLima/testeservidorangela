@@ -1,0 +1,131 @@
+{
+    "antibioticos":[
+    {
+        "nome":"amoxicilina",
+        "marca":"prati",
+        "mg":500,
+        "quantidade":21,
+        "preco":17,
+        "id":1
+    },
+
+    {
+        "nome":"cefalexina",
+        "marca":"uniao quimica",
+        "mg":500,
+        "quantidade":10,
+        "preco":13,
+        "id":2 
+    },
+
+    {
+        "nome":"ciprofloxacino",
+        "marca":"cimed",
+        "mg":500,
+        "quantidade":14,
+        "preco":21,
+        "id":3
+    },
+
+    {"nome":"tetralysal",
+    "marca":"galderma",
+    "mg":500,
+    "quantidade":28,
+    "preco":216,
+    "id":4}
+
+],
+
+    "antiinflamatorios":[
+    {"nome":"cetoprofeno",
+    "marca":"medley",
+    "mg":150,
+    "quantidade":10,
+    "preco":22,
+    "id":1},
+
+    {"nome":"ibupril",
+    "marca":"teuto",
+    "mg":600,
+    "quantidade":20,
+    "preco":8,
+    "id":2},
+
+    {"nome":"prednisona",
+    "marca":"legrand",
+    "mg":20,
+    "quantidade":10,
+    "preco":8,
+    "id":3},
+
+    {"nome":"maxsulid",
+    "marca":"gosmed",
+    "mg": 400,
+    "quantidade":10,
+    "preco":34,
+    "id":4}
+
+],
+
+    "analgesicos":[
+    {"nome":"cefaliv",
+    "marca":"aché",
+    "mg":451,
+    "quantidade":12,
+    "preco":17,
+    "id":1},
+
+    {"nome":"transtec",
+    "marca":"grunenthal",
+    "mg":30,
+    "quantidade":4,
+    "preco":728,
+    "id":2},
+
+    {"nome":"bexai",
+    "marca":"ems",
+    "mg":35,
+    "quantidade":20,
+    "preco":112,
+    "id":3},
+
+    {"nome":"gabapentina",
+    "marca":"germed",
+    "mg":300,
+    "quantidade":30,
+    "preco":52,
+    "id":4}
+    
+],
+
+    "antialergicos":[
+    {"nome":"zina",
+    "marca":"eurofarma",
+    "mg":5,
+    "quantidade":10,
+    "preco":46,
+    "id":1},
+
+    {"nome":"fenergan",
+    "marca":"sanofi aventis",
+    "mg":25,
+    "quantidade":20,
+    "preco":14,
+    "id":2},
+
+    {"nome":"rizi",
+    "marca":"cosmed",
+    "mg":5,
+    "quantidade":30,
+    "preco":112,
+    "id":3},
+
+    {"nome":"maleato de dexclorfeniramina",
+    "marca":"polaramine",
+    "mg":6,
+    "quantidade":12,
+    "preco":25,
+    "id":4}
+]
+
+}
